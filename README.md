@@ -4,6 +4,8 @@
 
 This project is a prototype designed for Heidi Calls to help medical clinics like Harbour to Sunset GP manage high volumes of inbound after-hours and overflow voicemails. It transforms unstructured audio recordings into structured, actionable work items for clinic staff.
 
+Developed as part of the [Heidi Health Junior Program](https://www.heidihealth.com/en-us/juniors-program).
+
 ## Live Demo
 Check out the live prototype here: [https://heidi-calls-demo.azeng.app/](https://heidi-calls-demo.azeng.app/)
 
