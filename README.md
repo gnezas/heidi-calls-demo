@@ -24,7 +24,7 @@ An intelligent triage dashboard that:
 - **Frontend**: Tailwind CSS (via CDN) and Vanilla JavaScript.
 - **AI Integration**: 
   - **Transcription**: OpenRouter API (`google/chirp-3` model).
-  - **Analysis**: OpenRouter API (`google/gemini-2.0-flash-lite` or similar).
+  - **Analysis**: OpenRouter API (`google/gemini-3.1-flash-lite`).
 - **Storage**: Browser `localStorage` for state management and local `/audio` folder for recordings.
 
 ## Getting Started
